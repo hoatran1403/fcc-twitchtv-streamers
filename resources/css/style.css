@@ -1,0 +1,27 @@
+
+img{
+  height:50px;
+  width: 50px;
+}
+
+.twitch-logo{
+  height: 150px;
+  width: 150px;
+}
+ul{
+  margin-top: 15px;
+}
+
+.title{
+  height: 150px;
+  padding-top:4%;
+
+}
+
+.alert{
+  margin: 10px;
+}
+
+.list-group{
+  opacity: 0.9;
+}
